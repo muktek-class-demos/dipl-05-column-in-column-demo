@@ -1,6 +1,6 @@
 ##### Mockup
-![mockups/column-in-column-orig.png]
+![mockup](images/column-in-column-orig.png)
 
 
 ##### Columns Analysis
-![images/column-in-column-analysis.png]
+![analysis](images/column-in-column-analysis.png)
