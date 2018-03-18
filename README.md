@@ -1,6 +1,6 @@
 ##### Mockup
-![mockups/natgeo-instaclone.png]
+![mockups/column-in-column-orig.png]
 
 
 ##### Columns Analysis
-![mockups/instaclone-flexboxes.png]
+![images/column-in-column-analysis.png]
